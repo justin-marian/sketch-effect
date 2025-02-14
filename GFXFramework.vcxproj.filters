@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\CPU_SketchEffect.cpp">
+      <Filter>src\SketchEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\GPU_SketchEffect.cpp">
+      <Filter>src\SketchEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.cpp">
+      <Filter>src\SketchEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\ThreadPool.cpp">
+      <Filter>src\SketchEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\sketch-effect\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\Color.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\Default.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\MVP.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\MVP.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\Model.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\Normals.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\Screen.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\Screen.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\Simple.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\Text.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\Text.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\assets\shaders\VertexColor.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\CPU_SketchEffect.h">
+      <Filter>src\SketchEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\GPU_SketchEffect.h">
+      <Filter>src\SketchEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.h">
+      <Filter>src\SketchEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\ThreadPool.h">
+      <Filter>src\SketchEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\sketch-effect\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\sketch-effect\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{089A65B7-A03D-351C-8361-FCA1F55FFB88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\shaders">
+      <UniqueIdentifier>{61B9D87D-13BD-3CCD-B527-046031CEB243}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{13F5F4FA-756C-3846-B06F-B9FB81F5EE81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\SketchEffect">
+      <UniqueIdentifier>{37EBA1D5-D72B-37A5-97BD-80560B37F57B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{39EEFB11-669F-34E5-901D-196DB64173AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{60D5669D-9D59-3B32-AB70-5C2EB28FD741}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{396B7070-2A78-33CD-BB6A-8A385C3BE3CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{0CD53706-0715-39A3-B071-8F91FB14BF99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{9D12CB6D-5341-3867-B8D7-C8C5183B497D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{ECFA8750-7682-3FDC-82EF-7B336C6D924E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
